@@ -1,6 +1,4 @@
 db:
-  timeout: 20000
-  mps: 5
   password: Sistemas10#
   username: postgres
   url: jdbc:postgresql://localhost:5432/architect
