@@ -3,7 +3,7 @@ spring:
     hikari:
       connection-timeout: 20000
       maximum-pool-size: 5
-    password: Sistemas10#
+    password: Admin1213#
     driver-class-name: org.postgresql.Driver
-    username: postgres
+    username: PRODUCTIVE
     url: jdbc:postgresql://localhost:5432/architect
