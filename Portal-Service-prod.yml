@@ -2,5 +2,5 @@ db:
   password: Admin1213#
   max-pool-size: 5
   connection-timeout: 20000
-  username: PRODUCTIVE
-  url: jdbc:postgresql://localhost:5432/architect
+  username: productivo
+  url: jdbc:postgresql://localhost:5434architect-deploy
