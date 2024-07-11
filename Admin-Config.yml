@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    hikari:
+      connection-timeout: 20000
+      maximum-pool-size: 5
+    password: Admin1213#
+    driver-class-name: org.postgresql.Driver
+    username: SITEO
+    url: jdbc:postgresql://localhost:5432/architect
