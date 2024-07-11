@@ -3,4 +3,4 @@ db:
   max-pool-size: 5
   connection-timeout: 20000
   username: productivo
-  url: jdbc:postgresql://localhost:5434architect-deploy
+  url: jdbc:postgresql://localhost:5434/architect-deploy
