@@ -1,9 +1,0 @@
-spring:
-  datasource:
-    hikari:
-      connection-timeout: 20000
-      maximum-pool-size: 5
-    password: Sistemas10#
-    driver-class-name: org.postgresql.Driver
-    username: postgres
-    url: jdbc:postgresql://localhost:5432/architect
