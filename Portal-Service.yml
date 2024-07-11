@@ -1,6 +1,6 @@
 db:
-  password: Admin1213#
+  password: Sistemas10#
   max-pool-size: 5
   connection-timeout: 20000
-  username: PRODUCTIVE
+  username: postgres
   url: jdbc:postgresql://localhost:5432/architect
