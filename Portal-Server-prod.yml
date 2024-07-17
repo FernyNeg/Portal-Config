@@ -1,0 +1,6 @@
+db:
+  password: Sistemas10#
+  max-pool-size: 5
+  connection-timeout: 20000
+  username: desarrollo
+  url: jdbc:postgresql://db-desa:5432/architect-desa
