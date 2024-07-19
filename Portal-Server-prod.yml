@@ -3,4 +3,4 @@ db:
   max-pool-size: 5
   connection-timeout: 20000
   username: desarrollo
-  url: jdbc:postgresql://db-desa:5432/architect-desa
+  url: jdbc:postgresql://db:5432/architect-desa
