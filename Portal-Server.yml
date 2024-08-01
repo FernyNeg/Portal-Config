@@ -4,3 +4,4 @@ db:
   connection-timeout: 20000
   username: desarrollo
   url: jdbc:postgresql://localhost:5432/architect-desa
+  schema: authorization
