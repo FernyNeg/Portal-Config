@@ -2,8 +2,8 @@ db:
   password: Sistemas10#
   max-pool-size: 5
   connection-timeout: 20000
-  username: desarrollo
-  url: jdbc:postgresql://db:5432/architect-desa
+  username: postgres
+  url: jdbc:postgresql://db:5432/postgres
   schema: '"authorization"'
 application:
   jwt:
