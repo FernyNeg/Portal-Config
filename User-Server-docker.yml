@@ -1,0 +1,7 @@
+db:
+  password: Sistemas10#
+  max-pool-size: 5
+  connection-timeout: 20000
+  username: desarrollo
+  url: jdbc:postgresql://db-template:5433/template
+  schema: data
