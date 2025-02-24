@@ -5,3 +5,5 @@ db:
   username: desarrollo
   url: jdbc:postgresql://template-db:5433/template
   schema: data
+  driverClassName: org.postgresql.Driver
+  dialect: org.hibernate.dialect.PostgreSQLDialect
