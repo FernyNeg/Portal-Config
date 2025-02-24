@@ -3,7 +3,7 @@ db:
   max-pool-size: 5
   connection-timeout: 20000
   username: desarrollo
-  url: jdbc:postgresql://ms-template-db:5432/template
+  url: jdbc:postgresql://localhost:5433/template
   schema: data
   driverClassName: org.postgresql.Driver
   dialect: org.hibernate.dialect.PostgreSQLDialect
